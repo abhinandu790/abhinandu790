@@ -1,15 +1,7 @@
-<h1 align="center">Hello, I'm Abhinandana T U!</h1>
-<h3 align="center">"Eat. Sleep. Code. Repeat."</h3>
+<h1 align="center">👋 Hey There, I'm  Abhinandana T U!</h1>
+<p align="left">"Eat. Sleep. Code. Repeat."</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhinandu790&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhinandu790&theme=gruvbox" alt="GitHub Trophy" />
-  </a>
-</p>
 
 - 🔭 I’m currently exploring **Web Development and Bootstrap**.
 - 🌱 I’m learning **MongoDB and JavaScript**.
@@ -58,10 +50,23 @@
 </p>
 
 
+🏆 GitHub Achievements:
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhinandu790&theme=gruvbox" alt="GitHub Trophy" />
+  </a>
+</p>
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinandu790&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinandu790&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
