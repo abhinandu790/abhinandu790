@@ -52,8 +52,9 @@
 <hr style="border: 0; border-top: 1px solid #ccc; margin: 20px 0;">
 <h3 align="left"> 📊GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinandu790&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
