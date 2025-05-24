@@ -1,100 +1,85 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+<h1 align="center">Hey 👋 I'm Abhinandana T U</h1>
 
-###
+<p align="center">✨ Eat. Sleep. Code. Repeat. | Web Developer | AI & Data Science Student</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</div>
+---
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhinandu790.abhinandu790&" />
-</div>
-
-###
-
-<h1 align="center">👋 Hey There, I'm Abhinandana T U!</h1>
-<p align="center">"Eat. Sleep. Code. Repeat."</p>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
+<h2 align="left">🧠 About Me</h2>
 
 <p align="left">
-- 🔭 I’m currently exploring <strong>Web Development</strong> and <strong>Bootstrap</strong>.<br>
-- 🌱 I’m learning <strong>MongoDB, JavaScript, and the MERN stack</strong>.<br>
-- 💾 I have also learned <strong>PostgreSQL, Django</strong>, and <strong>Figma</strong> for UI/UX.<br>
-- 👨‍💻 All of my projects are available at: <a href="https://github.com/abhinandu790">abhinandu790</a><br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinandana-tu">LinkedIn</a> | Email: abhinandu8589@gmail.com
+  🚀 Creating bugs since 2023 <br>
+  🎓 Integrated MSc Computer Science (AI & DS), CUSAT <br>
+  🧩 Currently learning: MERN Stack, and Django <br>
+  🎯 Goals: Master full-stack development and contribute to open-source <br>
+  😄 Developer chain reaction 🔄
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h2 align="left">🛠 I Code With</h2>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
+</p>
 
-###
+---
 
-<h3 align="left">🏆 GitHub Achievements</h3>
+<h2 align="left">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinandu790&theme=gruvbox" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinandu790&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-###
+---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
-</p>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinandu790&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</p>
 
-<h3 align="left">📫 Connect with Me</h3>
+---
+
+<h2 align="left">📫 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/abhinandana-tu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/abhinandana-tu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/abhiooo_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="mailto:abhinandu8589@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abhiooo_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-###
+---
 
-<h3 align="left">👀 Profile Views</h3>
+<h2 align="left">👀 Profile Views</h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhinandu790&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
-</div>
