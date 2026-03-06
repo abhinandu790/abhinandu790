@@ -7,7 +7,7 @@
 <h3 align="center">BCA Student • Web Developer • Full-Stack Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4B91&center=true&vCenter=true&width=850&lines=Building+Projects;Learning+MERN+Stack;Django+Developer;Always+Improving+My+Skills" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4B91&center=true&vCenter=true&width=850&lines=Building+Projects;Learning+MERN+Stack;Django+Developer;Always+Improving+My+Skills"/>
 </p>
 
 ---
@@ -91,9 +91,9 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhinandu790&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhinandu790&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
 
@@ -102,7 +102,7 @@
 # GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=abhinandu790&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=abhinandu790&theme=tokyonight"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@
 # Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinandu790&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinandu790&theme=tokyo-night"/>
 </p>
 
 ---
@@ -118,7 +118,7 @@
 # Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhinandu790&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhinandu790&theme=tokyonight&margin-w=10"/>
 </p>
 
 ---
