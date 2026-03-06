@@ -12,100 +12,118 @@
 
 ---
 
-## About Me
+# About Me
 
-➤ 🎓 BCA loading...  
-➤ 💻 Interface builder & problem solver  
-➤ ⚙️ MERN stack explorer  
-➤ 🧠 Backend experiments with Django  
-➤ 🛠 Shipping projects and learning fast  
+➤ 🎓 BCA loading...
+➤ 💻 Interface builder & problem solver
+➤ ⚙️ MERN stack explorer
+➤ 🧠 Backend experiments with Django
+➤ 🛠 Shipping projects and learning fast
 ➤ 📈 Progress measured in commits
 
 ---
 
-## Tech Stack
+# 🧰 Developer Toolkit
 
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html" height="75"/>
-<img src="https://skillicons.dev/icons?i=css" height="75"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="75"/>
-<img src="https://skillicons.dev/icons?i=js" height="75"/>
-<img src="https://skillicons.dev/icons?i=ts" height="75"/>
-<img src="https://skillicons.dev/icons?i=react" height="75"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" height="75"/>
-<img src="https://skillicons.dev/icons?i=express" height="75"/>
-<img src="https://skillicons.dev/icons?i=django" height="75"/>
-</p>
-
-### Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" height="75"/>
-<img src="https://skillicons.dev/icons?i=java" height="75"/>
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" height="75"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="75"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="75"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git" height="75"/>
-<img src="https://skillicons.dev/icons?i=linux" height="75"/>
-<img src="https://skillicons.dev/icons?i=figma" height="75"/>
-</p>
-
----
-
-## GitHub Stats
+### 🎨 Frontend Kit
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhinandu790&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
 
 </p>
 
 ---
 
-## GitHub Streak
+### ⚙️ Backend Lab
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandu790&theme=tokyonight"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/>
+
 </p>
 
 ---
 
-## Activity Graph
+### 🗄 Database Vault
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinandu790&theme=tokyo-night"/>
+
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
 ---
 
-## Achievements
+### 🧠 Programming Languages
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhinandu790&theme=tokyonight&no-frame=true"/>
+
+<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white"/>
+
 </p>
 
 ---
 
-## Connect With Me
+### 🛠 Dev Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhinandu790&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=abhinandu790&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinandu790&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhinandu790&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8"/>
+</p>
+
+---
+
+# Connect With Me
 
 <p align="center">
 
