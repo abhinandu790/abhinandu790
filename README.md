@@ -16,7 +16,7 @@
 - ⚛️ React Developer
 - 🐍 Django & Python Explorer
 - 🚀 Shipping real projects
-- ⚡ Fun fact: Debugging since 2023 — one `console.log` at a time
+- ⚡ Fact: Debugging since 2023 
 - 🔁 Eat. Sleep. Code. Repeat.
 
 ---
