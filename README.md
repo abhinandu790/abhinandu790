@@ -1,152 +1,114 @@
-<!-- HERO HEADER -->
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:6a11cb&height=200&section=header&text=Abhinandana%20T%20U&fontSize=42&fontColor=ffffff"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:a855f7,100:6a11cb&height=220&section=header&text=Abhinandana%20T%20U&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%7C%20React%20Developer%20%7C%20Django%20Explorer&descAlignY=58&descSize=16&descColor=ffffff"/>
 
-<h3 align="center">BCA Student • Web Developer • Full-Stack Learner</h3>
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4B91&center=true&vCenter=true&width=850&lines=Building+Projects;Learning+MERN+Stack;Django+Developer;Always+Improving+My+Skills"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+things+that+work+beautifully.;Turning+ideas+into+interfaces.;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-# About Me
+## 💫 About Me
 
-➤ 🎓 BCA loading...
-➤ 💻 Interface builder & problem solver
-➤ ⚙️ MERN stack explorer
-➤ 🧠 Backend experiments with Django
-➤ 🛠 Shipping projects and learning fast
-➤ 📈 Progress measured in commits
-
----
-
-# 🧰 Developer Toolkit
-
-### 🎨 Frontend Kit
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
-
-</p>
+- 🎓 BCA Student
+- ⚛️ React Developer
+- 🐍 Django & Python Explorer
+- 🚀 Shipping real projects
+- ⚡ Fun fact: Debugging since 2023 — one `console.log` at a time
+- 🔁 Eat. Sleep. Code. Repeat.
 
 ---
 
-### ⚙️ Backend Lab
+## 💻 Tech Stack
 
-<p align="center">
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&theme=dark" />
+</div>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/>
+### ⚙️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python&theme=dark" />
+</div>
 
-</p>
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+</div>
 
----
-
-### 🗄 Database Vault
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
-
----
-
-### 🧠 Programming Languages
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white"/>
-
-</p>
+### 🛠️ Tools & Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,linux,figma,vscode&theme=dark" />
+</div>
 
 ---
 
-### 🛠 Dev Tools
+## 🌐 Portfolio
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
+[![Portfolio](https://img.shields.io/badge/Abhinandana%20T%20U%20%E2%80%94%20Web%20Developer%20Portfolio-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-beta-7jlywvlrbs.vercel.app/)
 
-</p>
+</div>
 
 ---
 
-# GitHub Stats
+## 🔗 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinandu790&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/abhinandana-tu)
+&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:abhinandu8589@gmail.com)
+&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/abhiooo_)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandu790&layout=compact&theme=tokyonight" height="170"/>
-
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=abhinandu790&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-# Activity Graph
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinandu790&theme=tokyo-night"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinandu790&theme=tokyonight"/>
 
-# Achievements
+</div>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhinandu790&theme=tokyonight&margin-w=10"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinandu790&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinandu790&theme=tokyonight"/>
 
-# Connect With Me
+</div>
 
-<p align="center">
+<div align="center">
 
-<a href="https://linkedin.com/in/abhinandana-tu">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://nirzak-streak-stats.vercel.app/?user=abhinandu790&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<a href="mailto:abhinandu8589@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://instagram.com/abhiooo_">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhinandu790&style=for-the-badge"/>
-</p>
+## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:ff7eb3&height=120&section=footer"/>
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinandu790&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/abhinandu790)
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=abhinandu790&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:a855f7,100:ff7eb3&height=120&section=footer"/>
+
+</div>
